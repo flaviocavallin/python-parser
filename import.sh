@@ -1,0 +1,1 @@
+python3 ./exercise/Parse.py $1
